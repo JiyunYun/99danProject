@@ -1,6 +1,3 @@
-# 99danProject
-2019 Embedded Project
-
 # 클라이언트-서버 환경에서<br />디바이스 드라이버를 적용한 구구단 게임
 
 ### 개요
